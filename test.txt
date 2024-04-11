@@ -1,1 +1,2 @@
 Hello, my name is user.name!
+Good afternoon! (나른한 오후)
